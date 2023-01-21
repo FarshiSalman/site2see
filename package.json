@@ -1,0 +1,14 @@
+{
+  "name": "entropio",
+  "version": "1.0.0",
+  "description": "Landing page design | site-4",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass main.scss style.css -w"
+  },
+  "author": "Salman Farshi",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
