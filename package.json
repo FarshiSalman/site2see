@@ -1,10 +1,10 @@
 {
-  "name": "entropio",
+  "name": "baazrr",
   "version": "1.0.0",
-  "description": "Landing page design | site-4",
+  "description": "Garments marchandizing made easy",
   "main": "index.js",
   "scripts": {
-    "compile:sass": "node-sass main.scss style.css -w"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Salman Farshi",
   "license": "ISC",
